@@ -11,7 +11,7 @@
     "licchk": "license-check-and-add"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "composer-cli": "^0.20.9",
     "letters-of-credit-network": "^0.2.4",
     "react": "^16.2.0",
